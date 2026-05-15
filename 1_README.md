@@ -25,7 +25,10 @@ The primary aim of this project was to analyze historical sales records to ident
 - Peak Times: 72% of revenue is generated on weekdays , with the morning hours serving as the busiest period for all locations.
 - Growth Trend: Revenue showed a steady increase from March through June, with June being the peak month.
 
-6. ## Recommendations
+6. ## Live Dashboard
+   - https://datastudio.google.com/reporting/342d1d57-0d1a-4fa6-ba41-d76cbb47e983
+
+7. ## Recommendations
 - Staffing: Increase staff levels at the Hell's Kitchen location during morning peaks to maintain service quality.
 - Inventory: Prioritize coffee bean stock and ensure high-volume bakery items like Chocolate Croissants are always available.
 - Promotions: Launch targeted marketing campaigns or "combo deals" during slower afternoon and weekend periods to balance revenue.
